@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: paper.aux
+The style file: unsrt.bst
+Database file #1: paperNotes.bib
+Database file #2: references.bib
+Warning--can't use both author and editor fields in cnt4
+Warning--empty journal in CPPAWMANUAL
+Warning--empty journal in HANDSON
+You've used 46 entries,
+            1791 wiz_defined-function locations,
+            777 strings with 11954 characters,
+and the built_in function-call counts, 11396 in all, are:
+= -- 1013
+> -- 490
+< -- 1
++ -- 183
+- -- 137
+* -- 925
+:= -- 1838
+add.period$ -- 141
+call.type$ -- 46
+change.case$ -- 44
+chr.to.int$ -- 0
+cite$ -- 49
+duplicate$ -- 420
+empty$ -- 1103
+format.name$ -- 137
+if$ -- 2485
+int.to.chr$ -- 0
+int.to.str$ -- 46
+missing$ -- 46
+newline$ -- 236
+num.names$ -- 46
+pop$ -- 56
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 159
+stack$ -- 0
+substring$ -- 1077
+swap$ -- 54
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 100
+width$ -- 48
+write$ -- 511
+(There were 3 warnings)

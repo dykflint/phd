@@ -1,0 +1,279 @@
+\begin{thebibliography}{10}
+
+\bibitem{graphene1}
+Khan~M.F. Shahil and Alexander~A. Balandin.
+\newblock Thermal properties of graphene and multilayer graphene: Applications
+  in thermal interface materials.
+\newblock {\em Solid State Communications}, 152(15):1331 -- 1340, 2012.
+\newblock Exploring Graphene, Recent Research Advances.
+
+\bibitem{graphene2}
+Phaedon Avouris and Fengnian Xia.
+\newblock Graphene applications in electronics and photonics.
+\newblock {\em MRS Bulletin}, 37, 12 2012.
+
+\bibitem{graphene3}
+Yanwu Zhu, Shanthi Murali, Weiwei Cai, Xuesong Li, Ji~Won Suk, Jeffrey~R.
+  Potts, and Rodney~S. Ruoff.
+\newblock Graphene and graphene oxide: Synthesis, properties, and applications.
+\newblock {\em Advanced Materials}, 22(35):3906--3924, 2010.
+
+\bibitem{graphene4}
+Weiwei Li, Xiumei Geng, Yufen Guo, Jizan Rong, Youpin Gong, Liqiong Wu, Xuemin
+  Zhang, Peng Li, Jianbao Xu, Guosheng Cheng, Mengtao Sun, and Liwei Liu.
+\newblock Reduced graphene oxide electrically contacted graphene sensor for
+  highly sensitive nitric oxide detection.
+\newblock {\em ACS Nano}, 5(9):6955--6961, 2011.
+\newblock PMID: 21834585.
+
+\bibitem{c3n4_1}
+Jiuqing Wen, Jun Xie, Xiaobo Chen, and Xin Li.
+\newblock A review on g-c3n4-based photocatalysts.
+\newblock {\em Applied Surface Science}, 391:72 -- 123, 2017.
+\newblock 2nd International Symposium on Energy and Environmental
+  Photocatalytic Materials.
+
+\bibitem{c3n4_2}
+Ghasem Shiravand, Alireza Badiei, and Ghodsi {Mohammadi Ziarani}.
+\newblock Carboxyl-rich g-c3n4 nanoparticles: Synthesis, characterization and
+  their application for selective fluorescence sensing of hg2+ and fe3+ in
+  aqueous media.
+\newblock {\em Sensors and Actuators B: Chemical}, 242:244 -- 252, 2017.
+
+\bibitem{c3n4_3}
+Yao Zheng, Jian Liu, Ji~Liang, Mietek Jaroniec, and Shi~Zhang Qiao.
+\newblock Graphitic carbon nitride materials: controllable synthesis and
+  applications in fuel cells and photocatalysis.
+\newblock {\em Energy Environ. Sci.}, 5:6717--6731, 2012.
+
+\bibitem{cnt1}
+Valentin~N Popov.
+\newblock Carbon nanotubes: properties and application.
+\newblock {\em Materials Science and Engineering: R: Reports}, 43(3):61 -- 102,
+  2004.
+
+\bibitem{cnt2}
+Valentin~N Popov.
+\newblock Carbon nanotubes: properties and application.
+\newblock {\em Materials Science and Engineering: R: Reports}, 43(3):61 -- 102,
+  2004.
+
+\bibitem{cnt3}
+Antonio~V. Herrera-Herrera, Miguel Ángel González-Curbelo, Javier
+  Hernández-Borges, and Miguel Ángel Rodríguez-Delgado.
+\newblock Carbon nanotubes applications in separation science: A review.
+\newblock {\em Analytica Chimica Acta}, 734:1 -- 30, 2012.
+
+\bibitem{cnt4}
+Pulickel~M. Ajayan and Otto~Z. Zhou.
+\newblock {\em Applications of Carbon Nanotubes}, pages 391--425.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg, 2001.
+
+\bibitem{Grechnev_2003}
+Alexei Grechnev, Rajeev Ahuja, and Olle Eriksson.
+\newblock Balanced crystal orbital overlap population{\textemdash}a tool for
+  analysing chemical bonds in solids.
+\newblock {\em Journal of Physics: Condensed Matter}, 15(45):7751--7761, oct
+  2003.
+
+\bibitem{Bloechl1994}
+P.~E. Bl\"ochl.
+\newblock Projector augmented-wave method.
+\newblock {\em Phys. Rev. B}, 50:17953--17979, Dec 1994.
+
+\bibitem{CP}
+R.~Car and M.~Parrinello.
+\newblock Unified approach for molecular dynamics and density-functional
+  theory.
+\newblock {\em Phys. Rev. Lett.}, 55:2471--2474, Nov 1985.
+
+\bibitem{Verlet}
+Loup Verlet.
+\newblock Computer "experiments" on classical fluids. i. thermodynamical
+  properties of lennard-jones molecules.
+\newblock {\em Phys. Rev.}, 159:98--103, Jul 1967.
+
+\bibitem{CPPAWMANUAL}
+Peter~E. Blöchl.
+\newblock Manual for the projector augmented wave method.
+\newblock 2020.
+
+\bibitem{HANDSON}
+Michael ten~Brink Peter E.~Blöchl, Robert~Schade.
+\newblock Cp-paw hands-on course on first-principles calculations.
+\newblock 2018.
+
+\bibitem{HughbanksAndHoffmann}
+Timothy Hughbanks and Roald Hoffmann.
+\newblock Chains of trans-edge-sharing molybdenum octahedra: metal-metal
+  bonding in extended systems.
+\newblock {\em Journal of the American Chemical Society}, 105(11):3528--3537,
+  1983.
+
+\bibitem{dronskowski1993crystal}
+Richard Dronskowski and Peter~E Bloechl.
+\newblock Crystal orbital hamilton populations (cohp): energy-resolved
+  visualization of chemical bonding in solids based on density-functional
+  calculations.
+\newblock {\em The Journal of Physical Chemistry}, 97(33):8617--8624, 1993.
+
+\bibitem{BloechlLocal}
+Mohsen Sotoudeh, Sangeeta Rajpurohit, Peter Bl\"ochl, Daniel Mierwaldt, Jonas
+  Norpoth, Vladimir Roddatis, Stephanie Mildner, Birte Kressdorf, Benedikt
+  Ifland, and Christian Jooss.
+\newblock Electronic structure of
+  ${\mathrm{pr}}_{1\ensuremath{-}x}{\mathrm{ca}}_{x}{\mathrm{mno}}_{3}$.
+\newblock {\em Phys. Rev. B}, 95:235150, Jun 2017.
+
+\bibitem{PBE0}
+Carlo Adamo and Vincenzo Barone.
+\newblock Toward reliable density functional methods without adjustable
+  parameters: The pbe0 model.
+\newblock {\em The Journal of Chemical Physics}, 110(13):6158--6170, 1999.
+
+\bibitem{PerdewPBE0}
+John~P. Perdew, Matthias Ernzerhof, and Kieron Burke.
+\newblock Rationale for mixing exact exchange with density functional
+  approximations.
+\newblock {\em The Journal of Chemical Physics}, 105(22):9982--9985, 1996.
+
+\bibitem{VSEPR}
+R.~J. Gillespie and R.~S. Nyholm.
+\newblock Inorganic stereochemistry.
+\newblock {\em Q. Rev. Chem. Soc.}, 11:339--380, 1957.
+
+\bibitem{Tortajada}
+J.~Tortajada, G.~Provot, J.-P. Morizur, J.-F. Gal, P.-C. Maria, R.~Flammang,
+  and Y.~Govaert.
+\newblock Experimental and theoretical study of carbon suboxide c3o2,
+  protonated carbon suboxide c3ho2+ and c3ho2· radical in the gas phase.
+\newblock {\em International Journal of Mass Spectrometry and Ion Processes},
+  141(3):241 -- 255, 1995.
+
+\bibitem{VanderJohns}
+J.~Vander~Auwera, J.~W.~C. Johns, and O.~L. Polyansky.
+\newblock The far infrared spectrum of c3o2.
+\newblock {\em The Journal of Chemical Physics}, 95(4):2299--2316, 1991.
+
+\bibitem{Jensen}
+Per Jensen and J.W.C. Johns.
+\newblock The infrared spectrum of carbon suboxide in the ν6 fundamental
+  region: Experimental observation and semirigid bender analysis.
+\newblock {\em Journal of Molecular Spectroscopy}, 118(1):248 -- 266, 1986.
+
+\bibitem{Koput}
+Jacek Koput.
+\newblock An ab initio study on the equilibrium structure and ccc bending
+  energy levels of carbon suboxide.
+\newblock {\em Chemical Physics Letters}, 320(3):237 -- 244, 2000.
+
+\bibitem{HimmelKrossingSchnepf}
+Daniel Himmel, Ingo Krossing, and Andreas Schnepf.
+\newblock Dative bonds in main-group compounds: A case for fewer arrows!
+\newblock {\em Angewandte Chemie International Edition}, 53(2):370--374, 2014.
+
+\bibitem{Gebauer12913}
+Ralph Gebauer, Morrel~H. Cohen, and Roberto Car.
+\newblock A well-scaling natural orbital theory.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  113(46):12913--12918, 2016.
+
+\bibitem{c3o2polymer}
+R.~Nelson Smith, David~A. Young, Eric~N. Smith, and Charles~C. Carter.
+\newblock The structure and properties of carbon suboxide polymer.
+\newblock {\em Inorganic Chemistry}, 2(4):829--838, 1963.
+
+\bibitem{Mulliken1955}
+R.~S. Mulliken.
+\newblock Electronic population analysis on lcao–mo molecular wave functions.
+  i.
+\newblock {\em The Journal of Chemical Physics}, 23(10):1833--1840, 1955.
+
+\bibitem{PBE0r}
+Marco Eckhoff, Peter~E. Bl\"ochl, and J\"org Behler.
+\newblock Hybrid density functional theory benchmark study on lithium manganese
+  oxides.
+\newblock {\em Phys. Rev. B}, 101:205113, May 2020.
+
+\bibitem{gillespie}
+R.~J. Gillespie.
+\newblock The valence-shell electron-pair repulsion (vsepr) theory of directed
+  valency.
+\newblock {\em Journal of Chemical Education}, 40(6):295, 1963.
+
+\bibitem{TonnerAndFrenking}
+Ralf Tonner and Gernot Frenking.
+\newblock Divalent carbon(0) chemistry, part 1: Parent compounds.
+\newblock {\em Chemistry – A European Journal}, 14(11):3260--3272, 2008.
+
+\bibitem{Anisimov}
+Vladimir~I. Anisimov, Jan Zaanen, and Ole~K. Andersen.
+\newblock Band theory and mott insulators: Hubbard u instead of stoner i.
+\newblock {\em Phys. Rev. B}, 44:943--954, Jul 1991.
+
+\bibitem{Anisimov2}
+A.~I. Liechtenstein, V.~I. Anisimov, and J.~Zaanen.
+\newblock Density-functional theory and strong interactions: Orbital ordering
+  in mott-hubbard insulators.
+\newblock {\em Phys. Rev. B}, 52:R5467--R5470, Aug 1995.
+
+\bibitem{Novak}
+P.~Novák, J.~Kuneš, L.~Chaput, and W.~E. Pickett.
+\newblock Exact exchange for correlated electrons.
+\newblock {\em physica status solidi (b)}, 243(3):563--572, 2006.
+
+\bibitem{Tran}
+Fabien Tran, Peter Blaha, Karlheinz Schwarz, and Pavel Nov\'ak.
+\newblock Hybrid exchange-correlation energy functionals for strongly
+  correlated electrons: Applications to transition-metal monoxides.
+\newblock {\em Phys. Rev. B}, 74:155108, Oct 2006.
+
+\bibitem{Andersen}
+O.~Krogh Andersen.
+\newblock Linear methods in band theory.
+\newblock {\em Phys. Rev. B}, 12:3060--3083, Oct 1975.
+
+\bibitem{PAW_lda+u}
+O.~Bengone, M.~Alouani, P.~Bl\"ochl, and J.~Hugel.
+\newblock Implementation of the projector augmented-wave lda+u method:
+  Application to the electronic structure of nio.
+\newblock {\em Phys. Rev. B}, 62:16392--16401, Dec 2000.
+
+\bibitem{schade2019new}
+Robert Schade.
+\newblock {\em New Methods for the Ab-initio Simulation of Correlated Systems}.
+\newblock PhD thesis, Nieders{\"a}chsische Staats-und
+  Universit{\"a}tsbibliothek G{\"o}ttingen, 2019.
+
+\bibitem{FCI}
+I.~G. Ross.
+\newblock Calculations of the energy levels of acetylene by the method of
+  antisymmetric molecular orbitals{,} including σ-π interaction.
+\newblock {\em Trans. Faraday Soc.}, 48:973--991, 1952.
+
+\bibitem{c3o2_1}
+Benjamin~Collins Brodie.
+\newblock Iv. on the action of electricity on gases.\&\#x2014;ii. on the
+  electric decomposition of carbonic-acid gas.
+\newblock {\em Philosophical Transactions of the Royal Society of London},
+  164:83--103, 1874.
+
+\bibitem{LRDMC}
+Michele Casula, Claudia Filippi, and Sandro Sorella.
+\newblock Diffusion monte carlo method with lattice regularization.
+\newblock {\em Phys. Rev. Lett.}, 95:100201, Sep 2005.
+
+\bibitem{VMC}
+Iwan Kawrakow, Matthias Fippel, and Klaus Friedrich.
+\newblock 3d electron dose calculation using a voxel based monte carlo
+  algorithm (vmc).
+\newblock {\em Medical Physics}, 23(4):445--457, 1996.
+
+\bibitem{Ballauff}
+Matthias Ballauff, Li~Li, Sabine Rosenfeldt, Nico Dingenouts, Johannes Beck,
+  and Petra Krieger-Beck.
+\newblock Analysis of poly(carbon suboxide) by small-angle x-ray scattering.
+\newblock {\em Angewandte Chemie International Edition}, 43(43):5843--5846,
+  2004.
+
+\end{thebibliography}
